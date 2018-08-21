@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Fortio
+title: Fortio (Φορτίο)
 description: Fortio is a load testing library and command line tool and web UI in go (golang). Fortio allows to specify a set query-per-second load and record latency histograms and other useful stats.
 logo: fortio-logo-color.png
 google_analytics: UA-124363339-1
