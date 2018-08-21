@@ -4,3 +4,4 @@ description: Fortio is a load testing library and command line tool and web UI i
 logo: fortio-logo-color.png
 google_analytics: UA-124363339-1
 show_downloads: false
+github.is_project_page: false
