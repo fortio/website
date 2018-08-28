@@ -1,0 +1,3 @@
+
+update-meta:
+	go list fortio.org/fortio/...
