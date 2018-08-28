@@ -1,7 +1,6 @@
 ---
 title: Golang vanity URL page / meta
 redirect_from:
-  - /fortio
   - /fortio/bincommon
   - /fortio/echosrv
   - /fortio/fcurl

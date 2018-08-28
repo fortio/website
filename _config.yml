@@ -5,3 +5,7 @@ logo: fortio-logo-color.png
 google_analytics: UA-124363339-1
 show_downloads: false
 github.is_project_page: false
+
+gems:
+  - jekyll-redirect-from
+
