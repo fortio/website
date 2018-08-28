@@ -24,7 +24,7 @@ Fortio also includes a set of server side features (similar to httpbin) to help 
 Fortio is quite mature and very stable with no known major bugs (lots of possible improvements if you want to contribute though!),
 and when bugs are found they are fixed quickly, so after 1 year of development and 42 incremental releases, we reached 1.0 in June 2018.
 
-See [github.com/fortio/fortio](https://github.com/fortio/fortio/#fortio) for more information about fortio, download the latest [release](https://github.com/fortio/fortio/releases), file any issues or any other way to contribute to the open-source effort.
+See [github.com/fortio/fortio](https://github.com/fortio/fortio/#fortio) for more information about fortio, see examples of use and screenshots, download the latest [release](https://github.com/fortio/fortio/releases), file any issues or any other way to contribute to the open-source effort.
 
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>
