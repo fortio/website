@@ -8,7 +8,8 @@
 
 Welcome to fortio.org the website for Fortio!
 
-Fortio (Φορτίο) started as [Istio](https://istio.io/)'s load testing tool and now graduated to be its own project.
+Fortio (Φορτίο) started as [Istio](https://istio.io/)'s load testing tool and now graduated to be its own [open-source](https://github.com/fortio/fortio) project.
+
 Fortio runs at a specified query per second (qps) and records an histogram of execution time
 and calculates percentiles (e.g. p99 ie the response time such as 99% of the requests take less than that number (in seconds, SI unit)).
 It can run for a set duration, for a fixed number of calls, or until interrupted (at a constant target QPS, or max speed/load per connection/thread).
@@ -23,7 +24,7 @@ Fortio also includes a set of server side features (similar to httpbin) to help 
 Fortio is quite mature and very stable with no known major bugs (lots of possible improvements if you want to contribute though!),
 and when bugs are found they are fixed quickly, so after 1 year of development and 42 incremental releases, we reached 1.0 in June 2018.
 
-See <a href="https://github.com/fortio/fortio/#fortio">github.com/fortio/fortio</a> for more information about fortio.
+See [github.com/fortio/fortio](https://github.com/fortio/fortio/#fortio) for more information about fortio, download the latest [release](https://github.com/fortio/fortio/releases), file any issues or any other way to contribute to the open-source effort.
 
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>
