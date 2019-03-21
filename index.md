@@ -26,6 +26,6 @@ and when bugs are found they are fixed quickly, so after 1 year of development a
 
 See [github.com/fortio/fortio](https://github.com/fortio/fortio/#fortio) for more information about fortio, see examples of use and screenshots, download the latest [release](https://github.com/fortio/fortio/releases), file any issues or any other way to contribute to the open-source effort.
 
-You can see also see Fortio live on [istio.io/docs/concepts/performance-and-scalability/#synthetic-end-to-end-benchmarks](https://istio.io/docs/concepts/performance-and-scalability/#synthetic-end-to-end-benchmarks)
+You can see also see Fortio live on [istio's website performance and scalability section](https://archive.istio.io/v1.0/docs/concepts/performance-and-scalability/#synthetic-end-to-end-benchmarks)
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>
