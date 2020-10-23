@@ -30,5 +30,9 @@ As well as the newly integrated [Dynamic Flags](https://github.com/fortio/fortio
 See [github.com/fortio/fortio](https://github.com/fortio/fortio/#fortio) for more information about fortio, see examples of use and screenshots, download the latest [release](https://github.com/fortio/fortio/releases), file any issues or any other way to contribute to the open-source effort.
 
 You can see also see Fortio live on [istio's website performance and scalability section](https://archive.istio.io/v1.0/docs/concepts/performance-and-scalability/#synthetic-end-to-end-benchmarks)
+
+
+See also the new [DNSping](dnsping/) DNS reliability tool page.
+
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>

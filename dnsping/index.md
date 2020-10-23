@@ -13,7 +13,7 @@ If you have golang, easiest install is `go get -u fortio.org/dnsping`
 
 Or with docker `docker run fortio/dnsping ...`
 
-Otherwise head over to https://github.com/fortio/dnsping/releases for binary releases
+Otherwise head over to [github dnsping release page](https://github.com/fortio/dnsping/releases) for binary releases
 
 ## Usage:
 `dnsping [flags] query server`
@@ -148,7 +148,7 @@ Which also produces the json:
 
 ## Credits
 
-Source on https://github.com/fortio/dnsping and made thanks to https://github.com/miekg/dns (and https://github.com/fortio/fortio stats and logger)
+Source on [github.com/fortio/dnsping](https://github.com/fortio/dnsping) and made thanks to https://github.com/miekg/dns (and https://github.com/fortio/fortio stats and logger)
 
 This page is also for making
 <pre>
