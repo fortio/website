@@ -33,7 +33,7 @@ You can see also see Fortio live on [demo.fortio.org](https://demo.fortio.org/)
 
 See also the new [DNSping](dnsping/) DNS reliability tool page.
 
-New work in progress [Fortio proxy](proxy/).
+New work in progress [Fortio proxy](proxy.md).
 
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>
