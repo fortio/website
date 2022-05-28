@@ -16,7 +16,7 @@ It can run for a set duration, for a fixed number of calls, or until interrupted
 
 The name fortio comes from greek [φορτίο](https://translate.google.com/#el/en/%CF%86%CE%BF%CF%81%CF%84%CE%AF%CE%BF){:target="_blank"} ([![Play](Speaker_Icon.svg)](fortio.mp3){:target="soundframe"}) which means load/burden.
 
-Fortio is a fast, small (3Mb docker image, minimal dependencies), reusable, embeddable go library as well as a command line tool and server process,
+Fortio is a fast, small (4Mb multi architecture docker image, minimal dependencies), reusable, embeddable go library as well as a command line tool and server process,
 the server includes a simple web UI and graphical representation of the results (both a single latency graph and a multiple results comparative min, max, avg, qps and percentiles graphs).
 
 Fortio also includes a set of server side features (similar to httpbin) to help debugging and testing: request echo back including headers, adding latency or error codes with a probability distribution, tcp echoing, tcp proxying, http fan out/scatter and gather proxy server, GRPC echo/health in addition to http, etc...
@@ -29,11 +29,17 @@ As well as the newly integrated [Dynamic Flags](https://github.com/fortio/fortio
 
 See [github.com/fortio/fortio](https://github.com/fortio/fortio/#fortio) for more information about fortio, see examples of use and screenshots, download the latest [release](https://github.com/fortio/fortio/releases), file any issues or any other way to contribute to the open-source effort.
 
+## Demo
+
 You can see also see Fortio live on [demo.fortio.org](https://demo.fortio.org/)
 
-See also the new [DNSping](dnsping/) DNS reliability tool page.
+## DNS ping
 
-New work in progress [Fortio proxy](proxy.md).
+See also [DNSping](dnsping/) DNS reliability tool page.
+
+## Fortio TLS proxy
+
+[Fortio proxy](proxy.md).
 
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>
