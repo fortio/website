@@ -9,7 +9,7 @@ DNS Ping checks packet loss and latency issues with DNS servers
 
 ## Installation
 
-If you have golang, easiest install is `go get -u fortio.org/dnsping`
+If you have golang, easiest install is `go install fortio.org/dnsping@latest`
 
 Or with docker `docker run fortio/dnsping ...`
 
@@ -156,4 +156,4 @@ This page is also for making
 </pre>
 and godoc work.
 <p>
-Seel also the main <a href="https://fortio.org/">fortio.org</a> page.
+See also the main <a href="https://fortio.org/">fortio.org</a> page.

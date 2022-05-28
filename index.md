@@ -35,11 +35,11 @@ You can see also see Fortio live on [demo.fortio.org](https://demo.fortio.org/)
 
 ## DNS ping
 
-See also [DNSping](dnsping/) DNS reliability tool page.
+Checks and gather statistic about DNS server responses with [DNSping](dnsping/).
 
 ## Fortio TLS proxy
 
-[Fortio proxy](proxy.md).
+Front and multiplex your services (like fortio servers, including gRPC) behind a single TLS ingress with [Fortio proxy](proxy.md).
 
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>

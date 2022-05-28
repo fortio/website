@@ -4,8 +4,8 @@ goimport: fortio.org/proxy git https://github.com/fortio/proxy
 gosource: fortio.org/proxy https://github.com/fortio/proxy https://github.com/fortio/proxy/tree/master{/dir} https://github.com/fortio/proxy/blob/master{/dir}/{file}#L{line}
 ---
 
-# Fortio proxy
-Runs as a front end (ingress) for other services to provide tls and routing
+# Fortio TLS reverse proxy
+Runs as a front end (ingress) for other services to provide TLS (https autocert with letsencrypt/acme) and routing
 
 ## Installation
 
@@ -18,7 +18,7 @@ Otherwise head over to [github proxy release page](https://github.com/fortio/pro
 
 ## Credits
 
-Source on [github.com/fortio/proxy](https://github.com/fortio/proxy) and uses [github.com/fortio/fortio](https://github.com/fortio/fortio) as a library. 
+Source on [github.com/fortio/proxy](https://github.com/fortio/proxy) and uses [github.com/fortio/fortio](https://github.com/fortio/fortio) as a library.
 
 This page is also for making
 <pre>
@@ -26,4 +26,4 @@ This page is also for making
 </pre>
 and godoc work.
 <p>
-Seel also the main <a href="https://fortio.org/">fortio.org</a> page.
+See also the main <a href="https://fortio.org/">fortio.org</a> page.
