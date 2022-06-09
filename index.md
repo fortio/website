@@ -31,7 +31,7 @@ See [github.com/fortio/fortio](https://github.com/fortio/fortio/#fortio) for mor
 
 ## Demo
 
-You can see also see Fortio live on [demo.fortio.org](https://demo.fortio.org/) and embeded on https://istio.io/v1.0/docs/concepts/performance-and-scalability/#synthetic-end-to-end-benchmarks
+You can see also see Fortio live on [demo.fortio.org](https://demo.fortio.org/) and embeded on [istio.io/v1.0/docs/concepts/performance-and-scalability/#synthetic-end-to-end-benchmarks](https://istio.io/v1.0/docs/concepts/performance-and-scalability/#synthetic-end-to-end-benchmarks)
 
 ## DNS ping
 
