@@ -25,7 +25,9 @@ Fortio is quite mature and very stable with no known major bugs (lots of possibl
 and when bugs are found they are fixed quickly, so after 1 year of development and 42 incremental releases, we reached 1.0 in June 2018.
 
 Fortio components can be used a library even for unrelated projects, for instance the `log`, `stats`, or `fhttp` utilities both client and server.
-As well as the newly integrated [Dynamic Flags](https://github.com/fortio/fortio/tree/master/dflag#fortio-dynamic-flags-was-go-flagz) support (greatly inspired/imported initially from https://github.com/mwitkow/go-flagz)
+As well as the newly integrated [Dynamic Flags](dflag/) support (greatly inspired/imported initially from https://github.com/mwitkow/go-flagz but recently reimplemented using Go generics).
+Even more recent is the new `jrpc` JSON Remote Procedure Calls library package ([docs](https://pkg.go.dev/fortio.org/fortio/jrpc)).
+
 
 See [github.com/fortio/fortio](https://github.com/fortio/fortio/#fortio) for more information about fortio, see examples of use and screenshots, download the latest [release](https://github.com/fortio/fortio/releases), file any issues or any other way to contribute to the open-source effort.
 
@@ -39,7 +41,7 @@ Checks and gather statistic about DNS server responses with [DNSping](dnsping/).
 
 ## Fortio TLS proxy
 
-Front and multiplex your services (like fortio servers, including gRPC) behind a single TLS ingress with [Fortio proxy](proxy.md).
+Front and multiplex your services (like fortio servers, including gRPC) behind a single auto cert valid TLS ingress with [Fortio proxy](proxy.md).
 
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>

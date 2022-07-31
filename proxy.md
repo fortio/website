@@ -7,6 +7,8 @@ gosource: fortio.org/proxy https://github.com/fortio/proxy https://github.com/fo
 # Fortio TLS reverse proxy
 Runs as a front end (ingress) for other services to provide TLS (https autocert with letsencrypt/acme) and routing
 
+If you want to connect to fortio (or any other service you may have) using https and to provide real TLS certificates, or to multiplex grpc and regular http services behind a single port, check out [Fortio Proxy](https://github.com/fortio/proxy#fortio-proxy)
+
 ## Installation
 
 If you have golang, easiest install is `go install fortio.org/proxy@latest`
