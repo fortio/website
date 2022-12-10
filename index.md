@@ -43,5 +43,9 @@ Checks and gather statistic about DNS server responses with [DNSping](dnsping/).
 
 Front and multiplex your services (like fortio servers, including gRPC) behind a single auto cert valid TLS ingress with [Fortio proxy](proxy.md).
 
+## Fortio with Open Telemetry support (OTEL)
+
+[Fortiotel](fortiotel.md).
+
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>
