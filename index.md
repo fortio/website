@@ -41,11 +41,15 @@ Checks and gather statistic about DNS server responses with [DNSping](dnsping/).
 
 ## Fortio TLS proxy
 
-Front and multiplex your services (like fortio servers, including gRPC) behind a single auto cert valid TLS ingress with [Fortio proxy](proxy.md).
+Front and multiplex your services (like fortio servers, including gRPC) behind a single auto cert valid TLS ingress with [Fortio proxy](proxy.md). It fronts the demo site above, it also includes an optional debug proxy which you can find at [debug.fortio.org](https://debug.fortio.org/).
 
 ## Fortio with Open Telemetry support (OTEL)
 
 [Fortiotel](fortiotel.md).
+
+## Multicurl Fetch the same URL from all the IPs of a site
+
+See details at [github.com/fortio/multicurl](https://github.com/fortio/multicurl#multicurl)
 
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>
