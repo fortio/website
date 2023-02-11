@@ -35,6 +35,10 @@ See [github.com/fortio/fortio](https://github.com/fortio/fortio/#fortio) for mor
 
 You can see also see Fortio live on [demo.fortio.org](https://demo.fortio.org/) and embeded on [istio.io/v1.0/docs/concepts/performance-and-scalability/#synthetic-end-to-end-benchmarks](https://istio.io/v1.0/docs/concepts/performance-and-scalability/#synthetic-end-to-end-benchmarks)
 
+## Log package
+
+[Logger](log) package extracted/usable as standalone.
+
 ## DNS ping
 
 Checks and gather statistic about DNS server responses with [DNSping](dnsping/).
