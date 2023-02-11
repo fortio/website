@@ -1,7 +1,7 @@
 ---
 title: Fortio Proxy
 goimport: fortio.org/proxy git https://github.com/fortio/proxy
-gosource: fortio.org/proxy https://github.com/fortio/proxy https://github.com/fortio/proxy/tree/master{/dir} https://github.com/fortio/proxy/blob/master{/dir}/{file}#L{line}
+gosource: fortio.org/proxy https://github.com/fortio/proxy https://github.com/fortio/proxy/tree/main{/dir} https://github.com/fortio/proxy/blob/main{/dir}/{file}#L{line}
 ---
 
 # Fortio TLS reverse proxy

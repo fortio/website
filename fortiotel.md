@@ -1,7 +1,7 @@
 ---
 title: Fortio with Open Telemetry (OTEL)
 goimport: fortio.org/fortiotel git https://github.com/fortio/fortiotel
-gosource: fortio.org/fortiotel https://github.com/fortio/fortiotel https://github.com/fortio/fortiotel/tree/master{/dir} https://github.com/fortio/fortiotel/blob/master{/dir}/{file}#L{line}
+gosource: fortio.org/fortiotel https://github.com/fortio/fortiotel https://github.com/fortio/fortiotel/tree/main{/dir} https://github.com/fortio/fortiotel/blob/main{/dir}/{file}#L{line}
 ---
 
 # Fortio with Open Telemetry (OTEL)

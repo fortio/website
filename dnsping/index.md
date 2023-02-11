@@ -1,7 +1,7 @@
 ---
 title: DNSping DNS reliability test
 goimport: fortio.org/dnsping git https://github.com/fortio/dnsping
-gosource: fortio.org/dnsping https://github.com/fortio/dnsping https://github.com/fortio/dnsping/tree/master{/dir} https://github.com/fortio/dnsping/blob/master{/dir}/{file}#L{line}
+gosource: fortio.org/dnsping https://github.com/fortio/dnsping https://github.com/fortio/dnsping/tree/main{/dir} https://github.com/fortio/dnsping/blob/main{/dir}/{file}#L{line}
 ---
 
 # dnsping

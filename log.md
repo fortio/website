@@ -1,7 +1,7 @@
 ---
 title: Golang vanity URL page / meta for fortio.org/log
 goimport: fortio.org/log git https://github.com/fortio/log
-gosource: fortio.org/log https://github.com/fortio/log https://github.com/fortio/log/tree/master{/dir} https://github.com/fortio/log/blob/master{/dir}/{file}#L{line}
+gosource: fortio.org/log https://github.com/fortio/log https://github.com/fortio/log/tree/main{/dir} https://github.com/fortio/log/blob/main{/dir}/{file}#L{line}
 ---
 
 Fortio's log is simple logger built on top of go's default one with

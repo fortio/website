@@ -1,7 +1,7 @@
 ---
 title: Open Telemetry (OTEL) sample app
 goimport: fortio.org/otel-sample-app git https://github.com/fortio/otel-sample-app
-gosource: fortio.org/otel-sample-app https://github.com/fortio/otel-sample-app https://github.com/fortio/otel-sample-app/tree/master{/dir} https://github.com/fortio/otel-sample-app/blob/master{/dir}/{file}#L{line}
+gosource: fortio.org/otel-sample-app https://github.com/fortio/otel-sample-app https://github.com/fortio/otel-sample-app/tree/main{/dir} https://github.com/fortio/otel-sample-app/blob/main{/dir}/{file}#L{line}
 ---
 
 # Open Telemetry (OTEL) sample app
