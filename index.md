@@ -39,6 +39,14 @@ You can see also see Fortio live on [demo.fortio.org](https://demo.fortio.org/) 
 
 [Logger](log) package extracted/usable as standalone.
 
+## DFlag package
+
+[Dynamic Flag](dflag) package extracted/usable as standalone.
+
+## Version package
+
+[Version](version) extraction utility package extracted/usable as standalone.
+
 ## DNS ping
 
 Checks and gather statistic about DNS server responses with [DNSping](dnsping/).

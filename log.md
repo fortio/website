@@ -4,7 +4,7 @@ goimport: fortio.org/log git https://github.com/fortio/log
 gosource: fortio.org/log https://github.com/fortio/log https://github.com/fortio/log/tree/main{/dir} https://github.com/fortio/log/blob/main{/dir}/{file}#L{line}
 ---
 
-Fortio's log is simple logger built on top of go's default one with
+Fortio's log is a simple GoLang logger built on top of go's default one with
 additional opinionated levels similar to glog but simpler to use and configure.
 ```
 log.Debugf() // Debug level
