@@ -8,9 +8,9 @@ Fortio's version is simple wrapper for go 1.18 and newer `debug.ReadBuildInfo()`
 you obtain version directly from the binary, without having to use the previously necessary
 `-ldflags -X main.version=1.2.3` when using `go install pkg@v1.2.3` instead.
 
-Github: https://github.com/fortio/version
+Read more, source: [github.com/fortio/version](https://github.com/fortio/version)
 
-(see also https://github.com/golang/go/issues/52898)
+(see also [Some background](https://github.com/golang/go/issues/52898))
 
 This page also for making
 <pre>
