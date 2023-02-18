@@ -6,6 +6,8 @@ gosource: fortio.org/cli https://github.com/fortio/cli https://github.com/fortio
 
 Fortio's cli a shell for command line tool or server's main().
 
+It abstracts the repetitive parts of a `main()` command line tool, flag parsing, usage, etc...
+
 See [github/fortio/cli](https://github.com/fortio/cli#cli)
 
 This page also for making

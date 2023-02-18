@@ -47,6 +47,10 @@ You can see also see Fortio live on [demo.fortio.org](https://demo.fortio.org/) 
 
 [Version](version) extraction utility package extracted/usable as standalone.
 
+## CLI package
+
+[CLI](cli) abstracts the repetitive parts of a `main()` command line tool, flag parsing, usage, etc...
+
 ## DNS ping
 
 Checks and gather statistic about DNS server responses with [DNSping](dnsping/).
