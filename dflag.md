@@ -6,7 +6,7 @@ gosource: fortio.org/dflag https://github.com/fortio/dflag https://github.com/fo
 
 Fortio's dflag is dynamic flags for golang. Update your config without restarting your services.
 
-See [github/fortio/dflag](https://github.com/fortio/dflag#fortio-dynamic-flags-was-go-flagz)
+See [github/fortio/dflag](https://github.com/fortio/dflag#fortio-dynamic-flags)
 
 This page also for making
 <pre>
