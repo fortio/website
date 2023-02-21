@@ -56,6 +56,10 @@ You can see also see Fortio live on [demo.fortio.org](https://demo.fortio.org/) 
 [SCLI](scli) extends [cli](cli) for server main() to include [dflag](dflag) setup of
 a watched config directory and dynamic flag UI/api endpoint.
 
+## Sets package
+
+[sets](sets) type and operations in golang, using generics (go 1.18 and newer).
+
 ## DNS ping
 
 Checks and gather statistic about DNS server responses with [DNSping](dnsping/).
