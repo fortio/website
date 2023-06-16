@@ -17,6 +17,14 @@ log.Fatalf() // Fatal level - program will panic/exit
 ```
 See Config object for options like whether to include line number and file name of caller or not etc
 
+Since 1.4 fortio's logger also supports JSON structured logging, including with extensible attributes:
+```
+log.S(log.Info, "msg", log.Attr("key", value)...)
+```
+Details on [github.com/fortio/log](https://github.com/fortio/log)
+
+<p>
+
 This page also for making
 <pre>
  go get fortio.org/log

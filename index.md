@@ -37,7 +37,7 @@ You can see also see Fortio live on [demo.fortio.org](https://demo.fortio.org/) 
 
 ## Log package
 
-[Logger](log) package extracted/usable as standalone.
+[Logger](log) package extracted/usable as standalone, now with optional JSON structured logging. Use [logc](logc) to convert JSON back to human readable logs.
 
 ## DFlag package
 
