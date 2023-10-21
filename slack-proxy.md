@@ -1,5 +1,5 @@
 ---
-title: Fortio with Open Telemetry (OTEL)
+title: Slack Proxy
 goimport: fortio.org/slack-proxy git https://github.com/fortio/slack-proxy
 gosource: fortio.org/slack-proxy https://github.com/fortio/slack-proxy https://github.com/fortio/slack-proxy/tree/main{/dir} https://github.com/fortio/slack-proxy/blob/main{/dir}/{file}#L{line}
 ---
