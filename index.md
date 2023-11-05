@@ -60,6 +60,10 @@ a watched config directory and dynamic flag UI/api endpoint.
 
 [sets](sets) type and operations in golang, using generics (go 1.18 and newer).
 
+## Struct2env package
+
+[struct2env](struct2env) allows you to convert from Go structures to environment variables (and back). For configuration interactions between shell and go objects.
+
 ## DNS ping
 
 Checks and gather statistic about DNS server responses with [DNSping](dnsping/).
@@ -75,6 +79,10 @@ Front and multiplex your services (like fortio servers, including gRPC) behind a
 ## Multicurl Fetch the same URL from all the IPs of a site
 
 See details at [github.com/fortio/multicurl](https://github.com/fortio/multicurl#multicurl)
+
+## Slack proxy
+
+[slack-proxy](slack-proxy) allows to multiplex and rate control your slack api calls.
 
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>
