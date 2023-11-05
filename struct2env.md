@@ -1,5 +1,5 @@
 ---
-title: Slack Proxy
+title: Go Structures/config objects to (and from) environment variables
 goimport: fortio.org/struct2env git https://github.com/fortio/struct2env
 gosource: fortio.org/struct2env https://github.com/fortio/struct2env https://github.com/fortio/struct2env/tree/main{/dir} https://github.com/fortio/struct2env/blob/main{/dir}/{file}#L{line}
 ---
