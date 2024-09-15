@@ -84,5 +84,15 @@ See details at [github.com/fortio/multicurl](https://github.com/fortio/multicurl
 
 [slack-proxy](slack-proxy) allows to multiplex and rate control your slack api calls.
 
+## Terminal
+
+[terminal](terminal) is `readline` style library fully encapsulating yet based on an improved version of `x/term`.
+
+## Safecast
+
+[safecast](safecast) allows you to safely cast between numeric types in Go and return errors (or panic when using the
+`Must*` variants) when the cast would result in a loss of precision, range or sign.
+
+
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>
