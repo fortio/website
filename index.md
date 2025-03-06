@@ -93,6 +93,9 @@ See details at [github.com/fortio/multicurl](https://github.com/fortio/multicurl
 [safecast](safecast) allows you to safely cast between numeric types in Go and return errors (or panic when using the
 `Must*` variants) when the cast would result in a loss of precision, range or sign.
 
+## ProgressBar
+
+[progressbar](progressbar) a zero dependency simple library to show progress bars for go terminal/CLIs.
 
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>
