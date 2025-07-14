@@ -84,10 +84,9 @@ See details at [github.com/fortio/multicurl](https://github.com/fortio/multicurl
 
 [slack-proxy](slack-proxy) allows to multiplex and rate control your slack api calls.
 
-## Terminal
+## Terminal and Ansipixels
 
-[terminal](terminal) is `readline` style library fully encapsulating yet based on an improved version of `x/term`. As well as [ansipixels](https://pkg.go.dev/fortio.org/terminal/ansipixels), [gvi](gvi) a
-super basic vi clone in go, and [tev](tev) a tool to debug what your terminal emulator is sending (`xev` for TUIs).
+[terminal](terminal) is `readline` style library fully encapsulating yet based on an improved version of `x/term`. As well as [ansipixels](https://pkg.go.dev/fortio.org/terminal/ansipixels) for TUI games and utilities (TUI Fps, brick, game of life,...), [gvi](gvi) a super basic vi clone in go, and [tev](tev) a tool to debug what your terminal emulator is sending (`xev` for TUIs).
 
 ## Safecast
 
