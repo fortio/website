@@ -86,7 +86,8 @@ See details at [github.com/fortio/multicurl](https://github.com/fortio/multicurl
 
 ## Terminal
 
-[terminal](terminal) is `readline` style library fully encapsulating yet based on an improved version of `x/term`. As well as [ansipixels](https://pkg.go.dev/fortio.org/terminal/ansipixels) and [gvi](gvi).
+[terminal](terminal) is `readline` style library fully encapsulating yet based on an improved version of `x/term`. As well as [ansipixels](https://pkg.go.dev/fortio.org/terminal/ansipixels), [gvi](gvi) a
+super basic vi clone in go, and [tev](tev) a tool to debug what your terminal emulator is sending (`xev` for TUIs).
 
 ## Safecast
 
