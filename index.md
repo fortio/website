@@ -88,6 +88,8 @@ See details at [github.com/fortio/multicurl](https://github.com/fortio/multicurl
 
 [terminal](terminal) is `readline` style library fully encapsulating yet based on an improved version of `x/term`. As well as [ansipixels](https://pkg.go.dev/fortio.org/terminal/ansipixels) for TUI games and utilities (TUI Fps, brick, game of life,...), [gvi](gvi) a super basic vi clone in go, and [tev](tev) a tool to debug what your terminal emulator is sending (`xev` for TUIs).
 
+A new addition is also [tclock](tclock) a terminal digial clock with big digits and color options.
+
 ## Safecast
 
 [safecast](safecast) allows you to safely cast between numeric types in Go and return errors (or panic when using the
