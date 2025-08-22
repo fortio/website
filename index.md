@@ -86,9 +86,10 @@ See details at [github.com/fortio/multicurl](https://github.com/fortio/multicurl
 
 ## Terminal and Ansipixels
 
-[terminal](terminal) is `readline` style library fully encapsulating yet based on an improved version of `x/term`. As well as [ansipixels](https://pkg.go.dev/fortio.org/terminal/ansipixels) for TUI games and utilities (TUI Fps, brick, game of life,...), [gvi](gvi) a super basic vi clone in go, and [tev](tev) a tool to debug what your terminal emulator is sending (`xev` for TUIs).
+[terminal](terminal) is `readline` style library fully encapsulating yet based on an improved version of `x/term`. As well as [ansipixels](https://pkg.go.dev/fortio.org/terminal/ansipixels) for TUI games and utilities (TUI Fps, brick, game of life,...), [gvi](gvi) a super basic vi clone in go, [tev](tev) a tool to debug what your terminal emulator is sending (`xev` for TUIs).
 
 A new addition is also [tclock](tclock) a terminal digial clock with big digits and color options.
+Also [tcolor](tcolor) a color chooser (including Hue Saturation Lightness (HSL) space and more) and [tfonts](tfonts) to pick and show fonts in your terminal (much better than plain "big ascii text").
 
 ## Safecast
 
