@@ -100,5 +100,10 @@ Also [tcolor](tcolor) a color chooser (including Hue Saturation Lightness (HSL) 
 
 [progressbar](progressbar) a zero dependency simple library to show progress bars for go terminal/CLIs.
 
+## Duration
+
+[duration](duration) a zero dependency library to overcome issues with lack of days and weeks in standard library's duration as well as ease parsing for common date/times and print durations without zeroes (eg `1d3m` instead of `24h3m0s`) - it originated in [tclock](tclock). Also available via [dflag](dflag).
+
+
 <!-- for the sound file link above -->
 <iframe name="soundframe" style="width:0; height:0; border:0; border:none"></iframe>
