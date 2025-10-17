@@ -60,6 +60,10 @@ a watched config directory and dynamic flag UI/api endpoint.
 
 [sets](sets) type and operations in golang, using generics (go 1.18 and newer).
 
+## Smap package
+
+[smap](https://github.com/fortio/smap#smap) is a concurrent-safe map (RWLock protected) with go 1.24 iterators. See the [godoc](https://pkg.go.dev/fortio.org/smap).
+
 ## Struct2env package
 
 [struct2env](struct2env) allows you to convert from Go structures to environment variables (and back). For configuration interactions between shell and go objects.
