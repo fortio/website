@@ -6,7 +6,7 @@ gosource: fortio.org/tsnake https://github.com/fortio/tsnake https://github.com/
 
 # tsnake
 
-play the classic game snake in your terminal
+Play the classic game snake in your terminal
 
 See details at [github.com/fortio/tsnake](https://github.com/fortio/tsnake#tsnake)
 
