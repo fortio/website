@@ -1,5 +1,5 @@
 ---
-title: play the classic game snake in your terminal
+title: Play the classic game snake in your terminal
 goimport: fortio.org/tsnake git https://github.com/fortio/tsnake
 gosource: fortio.org/tsnake https://github.com/fortio/tsnake https://github.com/fortio/tsnake/tree/main{/dir} https://github.com/fortio/tsnake/blob/main{/dir}/{file}#L{line}
 ---
